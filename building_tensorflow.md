@@ -179,3 +179,5 @@ Google suggests to test the TensorFlow installation with the following command:
 This does not make explicit use of CUDA yet, but will emit a whole bunch of initialization messages that can give an indication whether all libraries could be loaded. And it should print that requested sum.
 
 It worked? Great! Be happy and hope you won't have to build TensorFlow again any time soon...
+
+Forked from: https://gist.github.com/kmhofmann/e368a2ebba05f807fa1a90b3bf9a1e03
